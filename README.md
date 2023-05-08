@@ -1,4 +1,3 @@
-##Online Retail Customer Segmentation
 
 Unsupervised machine learning (ML) is a subset of ML in which relationships and patterns in data are discovered without the aid of explicit labelling or human supervision. Identifying structure and patterns within data sets without any prior knowledge of what those patterns might be is the aim of unsupervised learning, in other words.
 
